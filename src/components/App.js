@@ -9,7 +9,7 @@ const App = () => {
   }, 1000);
   return (
     <div>
-        You've been on this page for {time} seconds.
+        <p>You've been on this page for {time} seconds.</p>
     </div>
   )
 }
